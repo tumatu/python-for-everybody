@@ -31,3 +31,8 @@ Ritchie Ng, from the sunny island called Singapore.
 Without him, I would not have been able to create these notes and answers.<br />
 Professor Charles Severance, University of Michigan.
 
+## Update From Hongjie on Febuary, 2018
+
+### Add the sample codes provided by the lecture, including the codes for small exercises and 2 capstone projects.
+
+### All materials (<a href="https://www.py4e.com/html3/01-intro">online e-book</a>, lecture videos) related to the lecture can also be available on <a href="https://www.py4e.com/">this website</a>.
